@@ -1,0 +1,2 @@
+# edgnb.com
+my blog
